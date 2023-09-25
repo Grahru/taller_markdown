@@ -42,3 +42,5 @@ Enlaces a la página web del [IES Celia Viñas][1] y a [GitHub][2].
 ![](https://iescelia.org/web/wp-content/uploads/2012/05/iescelia_1950.jpg)
 
 ![SOLDIER](https://static.wikia.nocookie.net/esfinalfantasy/images/c/ca/Cloud_Strife_-_Arte_Nomura.jpg/revision/latest?cb=20090526165815)
+
+![] (Images/Tifa_Lockhart.jpg)
